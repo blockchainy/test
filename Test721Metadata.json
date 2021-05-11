@@ -1,0 +1,18 @@
+{
+    "title": "MJ Test Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "MJ Test NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mike doing his thang"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.pinimg.com/originals/8f/b4/23/8fb423976e5c4b6bc5df1d6e30544e76.jpg"
+        }
+    }
+}
