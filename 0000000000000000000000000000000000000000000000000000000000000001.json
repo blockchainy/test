@@ -1,0 +1,18 @@
+{
+    "title": "1155 Test",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "1155 Test Token"
+        },
+        "description": {
+            "type": "string",
+            "description": "testing"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.pinimg.com/originals/8f/b4/23/8fb423976e5c4b6bc5df1d6e30544e76.jpg"
+        }
+    }
+}
